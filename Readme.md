@@ -1,6 +1,6 @@
 # DroneSmart: Smartphones Delivery System
 
-![DroneSmart Logo](image\logo.png)
+![DroneSmart Logo](image/logo.png)
 
 ## Table of Contents
 
